@@ -1,0 +1,4 @@
+line 1: PCR amplification of target gene completed successfully
+line 5: PCR primers ordered from supplier
+line 7: PCR cycle conditions optimized for new template
+line 9: PCR product purified for by gel extraction

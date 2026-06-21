@@ -1,0 +1,10 @@
+PCR amplification of target gene completed successfully
+Sample contaminated with bacterial growth
+Western blot showed expected band at 45kDa
+Sequencing run failed due to low quality scores
+PCR primers ordered from supplier
+Cell culture passaged at confluence
+PCR cycle conditions optimized for new template
+Microscopy images saved to network drive
+PCR product purified for by gel extraction
+Lab meeting scheduled for Thursday
